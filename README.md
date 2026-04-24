@@ -53,3 +53,10 @@ Excel (Segmentation, Analysis)
 Data Visualization
 Marketing Strategy Frameworks
 
+---
+
+## Visualization  
+
+![Audience Segmentation](1724437408007.jpeg)
+
+
